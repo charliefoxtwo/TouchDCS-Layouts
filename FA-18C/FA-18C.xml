@@ -206,7 +206,7 @@
 </property>
 <property type='f'>
 <key><![CDATA[cornerRadius]]></key>
-<value>0</value>
+<value>3</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
@@ -1623,6 +1623,15 @@
 <property type='b'>
 <key><![CDATA[grid]]></key>
 <value>1</value>
+</property>
+<property type='c'>
+<key><![CDATA[gridColor]]></key>
+<value>
+<r>0</r>
+<g>0</g>
+<b>0</b>
+<a>0.25</a>
+</value>
 </property>
 <property type='i'>
 <key><![CDATA[gridSteps]]></key>
@@ -7151,6 +7160,15 @@ end]]></value>
 <key><![CDATA[grid]]></key>
 <value>0</value>
 </property>
+<property type='c'>
+<key><![CDATA[gridColor]]></key>
+<value>
+<r>0</r>
+<g>0</g>
+<b>0</b>
+<a>0.25</a>
+</value>
+</property>
 <property type='i'>
 <key><![CDATA[gridSteps]]></key>
 <value>20</value>
@@ -7440,6 +7458,15 @@ end]]></value>
 <key><![CDATA[grid]]></key>
 <value>0</value>
 </property>
+<property type='c'>
+<key><![CDATA[gridColor]]></key>
+<value>
+<r>0</r>
+<g>0</g>
+<b>0</b>
+<a>0.25</a>
+</value>
+</property>
 <property type='i'>
 <key><![CDATA[gridSteps]]></key>
 <value>20</value>
@@ -7586,6 +7613,15 @@ end]]></value>
 <property type='b'>
 <key><![CDATA[grid]]></key>
 <value>1</value>
+</property>
+<property type='c'>
+<key><![CDATA[gridColor]]></key>
+<value>
+<r>0</r>
+<g>0</g>
+<b>0</b>
+<a>0.25</a>
+</value>
 </property>
 <property type='i'>
 <key><![CDATA[gridSteps]]></key>
@@ -17096,6 +17132,15 @@ end]]></value>
 <key><![CDATA[grid]]></key>
 <value>0</value>
 </property>
+<property type='c'>
+<key><![CDATA[gridColor]]></key>
+<value>
+<r>0</r>
+<g>0</g>
+<b>0</b>
+<a>0.25</a>
+</value>
+</property>
 <property type='i'>
 <key><![CDATA[gridSteps]]></key>
 <value>20</value>
@@ -23507,7 +23552,7 @@ end]]></value>
 </property>
 <property type='f'>
 <key><![CDATA[cornerRadius]]></key>
-<value>1</value>
+<value>3</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
@@ -23886,6 +23931,15 @@ end]]></value>
 <key><![CDATA[grid]]></key>
 <value>1</value>
 </property>
+<property type='c'>
+<key><![CDATA[gridColor]]></key>
+<value>
+<r>0</r>
+<g>0</g>
+<b>0</b>
+<a>0.25</a>
+</value>
+</property>
 <property type='i'>
 <key><![CDATA[gridSteps]]></key>
 <value>34</value>
@@ -24066,6 +24120,15 @@ end]]></value>
 <property type='b'>
 <key><![CDATA[grid]]></key>
 <value>1</value>
+</property>
+<property type='c'>
+<key><![CDATA[gridColor]]></key>
+<value>
+<r>0</r>
+<g>0</g>
+<b>0</b>
+<a>0.25</a>
+</value>
 </property>
 <property type='i'>
 <key><![CDATA[gridSteps]]></key>
@@ -30094,6 +30157,15 @@ end]]></value>
 <key><![CDATA[grid]]></key>
 <value>0</value>
 </property>
+<property type='c'>
+<key><![CDATA[gridColor]]></key>
+<value>
+<r>0</r>
+<g>0</g>
+<b>0</b>
+<a>0.25</a>
+</value>
+</property>
 <property type='i'>
 <key><![CDATA[gridSteps]]></key>
 <value>20</value>
@@ -34164,851 +34236,6 @@ end]]></value>
 </value>
 </values>
 </node>
-<node ID='7ecd8512-a61a-11eb-bcd8-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2100</x>
-<y>250</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label310]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FUEL_UP]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='4c974a42-a61f-11eb-a99d-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2150</x>
-<y>250</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label312]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FUEL_UP]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='4fb3ffb8-a61f-11eb-952c-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2200</x>
-<y>250</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label313]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FUEL_UP]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='4fb3ffb9-a61f-11eb-ace5-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2250</x>
-<y>250</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label314]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 4
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FUEL_UP]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='52625dc2-a61f-11eb-b430-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2300</x>
-<y>250</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label315]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 5
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FUEL_UP]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='52625dc3-a61f-11eb-9a52-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -35030,14 +34257,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>2350</x>
+<x>2100</x>
 <y>250</y>
-<w>50</w>
+<w>300</w>
 <h>80</h>
 </value>
 </property>
@@ -35073,30 +34300,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 6
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -35117,7 +34327,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>6</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -35257,851 +34467,6 @@ end]]></value>
 </value>
 </values>
 </node>
-<node ID='2ab05d79-a620-11eb-be47-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2100</x>
-<y>380</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label317]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FUEL_DOWN]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='2ab07100-a620-11eb-a2fe-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2150</x>
-<y>380</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label318]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FUEL_DOWN]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='2ab08488-a620-11eb-b646-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2200</x>
-<y>380</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label319]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>1</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FUEL_DOWN]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='2ab08489-a620-11eb-877a-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2250</x>
-<y>380</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label320]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 4
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FUEL_DOWN]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='2ab0981a-a620-11eb-a74a-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2300</x>
-<y>380</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label321]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 5
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FUEL_DOWN]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='2ab0981b-a620-11eb-9c0d-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -36123,14 +34488,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>2350</x>
+<x>2100</x>
 <y>380</y>
-<w>50</w>
+<w>300</w>
 <h>80</h>
 </value>
 </property>
@@ -36166,30 +34531,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 6
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -36210,7 +34558,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>6</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -36350,682 +34698,6 @@ end]]></value>
 </value>
 </values>
 </node>
-<node ID='3b086d0f-a621-11eb-8a77-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2150</x>
-<y>595</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label323]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_BINGO]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='3b088096-a621-11eb-ad03-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2200</x>
-<y>595</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label324]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_BINGO]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='3b089428-a621-11eb-822c-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2250</x>
-<y>595</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label325]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>1</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_BINGO]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='3b089429-a621-11eb-bb63-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2300</x>
-<y>595</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label326]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 4
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_BINGO]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='3b08a7b0-a621-11eb-8724-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -37047,14 +34719,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>2350</x>
+<x>2150</x>
 <y>595</y>
-<w>50</w>
+<w>250</w>
 <h>80</h>
 </value>
 </property>
@@ -37090,30 +34762,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 5
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -37134,7 +34789,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>5</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -37274,175 +34929,6 @@ end]]></value>
 </value>
 </values>
 </node>
-<node ID='179e0f08-a604-11eb-bb4d-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2100</x>
-<y>870</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[IFEI_CLOCK_H]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[88888]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_CLOCK_H]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='282e5300-a604-11eb-a301-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -37464,7 +34950,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
@@ -37623,7 +35109,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
@@ -38101,9 +35587,9 @@ end]]></value>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>2150</x>
+<x>2100</x>
 <y>985</y>
-<w>250</w>
+<w>300</w>
 <h>80</h>
 </value>
 </property>
@@ -38179,14 +35665,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>2150</x>
+<x>2100</x>
 <y>985</y>
-<w>50</w>
+<w>100</w>
 <h>80</h>
 </value>
 </property>
@@ -38228,7 +35714,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -38249,7 +35735,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>2</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -38338,7 +35824,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
@@ -38497,7 +35983,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
@@ -39032,344 +36518,6 @@ end]]></value>
 </value>
 </values>
 </node>
-<node ID='89de67ad-a640-11eb-9e01-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1260</x>
-<y>240</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label328]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_RPM_R]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='89de8ec6-a640-11eb-ad4e-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1310</x>
-<y>240</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label329]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_RPM_R]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='89de8ec7-a640-11eb-bd36-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -39391,14 +36539,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>1360</x>
+<x>1260</x>
 <y>240</y>
-<w>50</w>
+<w>150</w>
 <h>80</h>
 </value>
 </property>
@@ -39434,30 +36582,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -39478,7 +36609,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -39618,344 +36749,6 @@ end]]></value>
 </value>
 </values>
 </node>
-<node ID='ad91ca41-a640-11eb-991b-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>960</x>
-<y>240</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label331]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_RPM_L]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='ad91ddc8-a640-11eb-8942-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1010</x>
-<y>240</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label332]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_RPM_L]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='ad91f150-a640-11eb-af48-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -39977,14 +36770,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>1060</x>
+<x>960</x>
 <y>240</y>
-<w>50</w>
+<w>150</w>
 <h>80</h>
 </value>
 </property>
@@ -40020,30 +36813,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -40064,7 +36840,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -40204,344 +36980,6 @@ end]]></value>
 </value>
 </values>
 </node>
-<node ID='384857ed-a643-11eb-ad22-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1260</x>
-<y>540</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label334]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FF_R]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='38486b7e-a643-11eb-9bc1-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1310</x>
-<y>540</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label335]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FF_R]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='38486b7f-a643-11eb-974d-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -40563,14 +37001,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>1360</x>
+<x>1257</x>
 <y>540</y>
-<w>50</w>
+<w>153</w>
 <h>80</h>
 </value>
 </property>
@@ -40606,30 +37044,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -40650,7 +37071,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -40790,344 +37211,6 @@ end]]></value>
 </value>
 </values>
 </node>
-<node ID='38487f07-a643-11eb-9f9f-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>960</x>
-<y>540</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label337]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FF_L]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='38487f08-a643-11eb-bc62-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1010</x>
-<y>540</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label338]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_FF_L]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='38489298-a643-11eb-868d-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -41149,14 +37232,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>1060</x>
+<x>960</x>
 <y>540</y>
-<w>50</w>
+<w>150</w>
 <h>80</h>
 </value>
 </property>
@@ -41192,30 +37275,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -41236,7 +37302,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -41376,344 +37442,6 @@ end]]></value>
 </value>
 </values>
 </node>
-<node ID='bdf495d7-a643-11eb-a837-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1260</x>
-<y>390</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label340]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_TEMP_R]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='bdf4a95e-a643-11eb-8826-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1310</x>
-<y>390</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label341]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_TEMP_R]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='bdf4a95f-a643-11eb-9bd0-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -41735,14 +37463,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>1360</x>
+<x>1260</x>
 <y>390</y>
-<w>50</w>
+<w>150</w>
 <h>80</h>
 </value>
 </property>
@@ -41778,30 +37506,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -41822,7 +37533,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -41883,344 +37594,6 @@ end]]></value>
 </osc>
 </messages>
 </node>
-<node ID='c1dae506-a643-11eb-b643-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1260</x>
-<y>390</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label343]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_CODES]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='c1daf88e-a643-11eb-a95d-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1310</x>
-<y>390</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label344]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_CODES]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='c1db018a-a643-11eb-a1e2-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -42242,14 +37615,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>1360</x>
+<x>1260</x>
 <y>390</y>
-<w>50</w>
+<w>150</w>
 <h>80</h>
 </value>
 </property>
@@ -42285,30 +37658,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -42329,7 +37685,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -42469,344 +37825,6 @@ end]]></value>
 </value>
 </values>
 </node>
-<node ID='f874d04b-a643-11eb-bd90-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>960</x>
-<y>390</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label346]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_TEMP_L]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='f874e81e-a643-11eb-a2b4-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1010</x>
-<y>390</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label347]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_TEMP_L]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='f874f764-a643-11eb-aad1-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -42828,14 +37846,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>1060</x>
+<x>960</x>
 <y>390</y>
-<w>50</w>
+<w>150</w>
 <h>80</h>
 </value>
 </property>
@@ -42871,30 +37889,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -42915,7 +37916,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -42976,344 +37977,6 @@ end]]></value>
 </osc>
 </messages>
 </node>
-<node ID='fd14c290-a643-11eb-a691-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>960</x>
-<y>390</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label349]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_SP]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='fd14d618-a643-11eb-8afe-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1010</x>
-<y>390</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label350]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[S]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_SP]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='fd14e9a0-a643-11eb-b261-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -43335,14 +37998,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>1060</x>
+<x>960</x>
 <y>390</y>
-<w>50</w>
+<w>150</w>
 <h>80</h>
 </value>
 </property>
@@ -43378,30 +38041,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -43422,7 +38068,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -43562,344 +38208,6 @@ end]]></value>
 </value>
 </values>
 </node>
-<node ID='4282739b-a644-11eb-80cc-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1260</x>
-<y>1020</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label352]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_OIL_PRESS_R]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='42828722-a644-11eb-a73f-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1310</x>
-<y>1020</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label353]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_OIL_PRESS_R]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='42829ab4-a644-11eb-9817-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -43921,14 +38229,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>1360</x>
+<x>1257</x>
 <y>1020</y>
-<w>50</w>
+<w>153</w>
 <h>80</h>
 </value>
 </property>
@@ -43964,30 +38272,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -44008,7 +38299,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -44148,344 +38439,6 @@ end]]></value>
 </value>
 </values>
 </node>
-<node ID='4282ae3d-a644-11eb-b5d3-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>960</x>
-<y>1020</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label355]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_OIL_PRESS_L]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='4282ae3e-a644-11eb-a795-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>1010</x>
-<y>1020</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label356]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[8]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_OIL_PRESS_L]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='4282c1c4-a644-11eb-8441-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -44507,14 +38460,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>1060</x>
+<x>960</x>
 <y>1020</y>
-<w>50</w>
+<w>150</w>
 <h>80</h>
 </value>
 </property>
@@ -44550,30 +38503,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -44594,7 +38530,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -46722,851 +40658,6 @@ end]]></value>
 </osc>
 </messages>
 </node>
-<node ID='c46046a0-a64c-11eb-a137-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2100</x>
-<y>380</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label371]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_TIME_SET_MODE]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='c4605a28-a64c-11eb-83ec-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2150</x>
-<y>380</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label372]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_TIME_SET_MODE]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='c4606dba-a64c-11eb-aebd-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2200</x>
-<y>380</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label373]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>1</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_TIME_SET_MODE]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='c4606dbb-a64c-11eb-b809-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2250</x>
-<y>380</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label374]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 4
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_TIME_SET_MODE]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='c4608142-a64c-11eb-b15c-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2300</x>
-<y>380</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label375]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 5
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_TIME_SET_MODE]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='c46094ca-a64c-11eb-b7ae-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -47588,14 +40679,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>2350</x>
+<x>2100</x>
 <y>380</y>
-<w>50</w>
+<w>300</w>
 <h>80</h>
 </value>
 </property>
@@ -47631,30 +40722,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 6
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -47675,7 +40749,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>6</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -47736,851 +40810,6 @@ end]]></value>
 </osc>
 </messages>
 </node>
-<node ID='004e7c8a-a702-11eb-ae17-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2100</x>
-<y>250</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label377]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 1
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_T]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='004e9026-a702-11eb-a449-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2150</x>
-<y>250</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label378]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_T]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='004ea3ae-a702-11eb-bc5e-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2200</x>
-<y>250</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label379]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 3
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_T]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='004ea3af-a702-11eb-96b9-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2250</x>
-<y>250</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label380]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 4
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_T]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
-<node ID='004eb736-a702-11eb-a3a3-18c04d0cbe26' type='LABEL'>
-<properties>
-<property type='b'>
-<key><![CDATA[background]]></key>
-<value>0</value>
-</property>
-<property type='c'>
-<key><![CDATA[color]]></key>
-<value>
-<r>1</r>
-<g>0</g>
-<b>0</b>
-<a>1</a>
-</value>
-</property>
-<property type='f'>
-<key><![CDATA[cornerRadius]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[font]]></key>
-<value>0</value>
-</property>
-<property type='r'>
-<key><![CDATA[frame]]></key>
-<value>
-<x>2300</x>
-<y>250</y>
-<w>50</w>
-<h>80</h>
-</value>
-</property>
-<property type='b'>
-<key><![CDATA[grabFocus]]></key>
-<value>1</value>
-</property>
-<property type='b'>
-<key><![CDATA[interactive]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[locked]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[name]]></key>
-<value><![CDATA[label381]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[orientation]]></key>
-<value>0</value>
-</property>
-<property type='b'>
-<key><![CDATA[outline]]></key>
-<value>0</value>
-</property>
-<property type='i'>
-<key><![CDATA[outlineStyle]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[pointerPriority]]></key>
-<value>0</value>
-</property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 5
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
-<property type='i'>
-<key><![CDATA[shape]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignH]]></key>
-<value>2</value>
-</property>
-<property type='i'>
-<key><![CDATA[textAlignV]]></key>
-<value>2</value>
-</property>
-<property type='b'>
-<key><![CDATA[textClip]]></key>
-<value>1</value>
-</property>
-<property type='c'>
-<key><![CDATA[textColor]]></key>
-<value>
-<r>1</r>
-<g>1</g>
-<b>1</b>
-<a>1</a>
-</value>
-</property>
-<property type='i'>
-<key><![CDATA[textLength]]></key>
-<value>1</value>
-</property>
-<property type='i'>
-<key><![CDATA[textSize]]></key>
-<value>80</value>
-</property>
-<property type='b'>
-<key><![CDATA[visible]]></key>
-<value>1</value>
-</property>
-</properties>
-<values>
-<value>
-<key><![CDATA[text]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>1</lockedDefaultCurrent>
-<default><![CDATA[4]]></default>
-<defaultPull>0</defaultPull>
-</value>
-<value>
-<key><![CDATA[touch]]></key>
-<locked>0</locked>
-<lockedDefaultCurrent>0</lockedDefaultCurrent>
-<default><![CDATA[false]]></default>
-<defaultPull>0</defaultPull>
-</value>
-</values>
-<messages>
-<osc>
-<enabled>1</enabled>
-<send>0</send>
-<receive>1</receive>
-<feedback>0</feedback>
-<connections>00001</connections>
-<triggers>
-<trigger>
-<var><![CDATA[text]]></var>
-<condition>ANY</condition>
-</trigger>
-</triggers>
-<path>
-<partial>
-<type>CONSTANT</type>
-<conversion>STRING</conversion>
-<value><![CDATA[/IFEI_T]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</path>
-<arguments>
-<partial>
-<type>VALUE</type>
-<conversion>STRING</conversion>
-<value><![CDATA[text]]></value>
-<scaleMin>0</scaleMin>
-<scaleMax>1</scaleMax>
-</partial>
-</arguments>
-</osc>
-</messages>
-</node>
 <node ID='004ecac8-a702-11eb-93bb-18c04d0cbe26' type='LABEL'>
 <properties>
 <property type='b'>
@@ -48602,14 +40831,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>2350</x>
+<x>2100</x>
 <y>250</y>
-<w>50</w>
+<w>300</w>
 <h>80</h>
 </value>
 </property>
@@ -48645,30 +40874,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 6
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -48689,7 +40901,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>6</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
@@ -48771,14 +40983,14 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[font]]></key>
-<value>0</value>
+<value>1</value>
 </property>
 <property type='r'>
 <key><![CDATA[frame]]></key>
 <value>
-<x>2150</x>
+<x>2097</x>
 <y>870</y>
-<w>50</w>
+<w>103</w>
 <h>80</h>
 </value>
 </property>
@@ -48814,30 +41026,13 @@ end]]></value>
 <key><![CDATA[pointerPriority]]></key>
 <value>0</value>
 </property>
-<property type='s'>
-<key><![CDATA[script]]></key>
-<value><![CDATA[local ch = 2
-function onReceiveOSC(msg)
-  local val = msg[2][1].value
-  local spaces = string.match(val, '%s+')
-  if (spaces == nil) then spaces = "" end
-  local offset = ch - string.len(spaces)
-  local finalChar = ""
-  if (offset > 0) then
-    finalChar = string.sub(val, offset, offset)
-  end
-
-  self.values.text = finalChar
-  return true
-end]]></value>
-</property>
 <property type='i'>
 <key><![CDATA[shape]]></key>
 <value>1</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignH]]></key>
-<value>2</value>
+<value>3</value>
 </property>
 <property type='i'>
 <key><![CDATA[textAlignV]]></key>
@@ -48858,7 +41053,7 @@ end]]></value>
 </property>
 <property type='i'>
 <key><![CDATA[textLength]]></key>
-<value>1</value>
+<value>2</value>
 </property>
 <property type='i'>
 <key><![CDATA[textSize]]></key>
